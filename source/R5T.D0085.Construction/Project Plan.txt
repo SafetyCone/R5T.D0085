@@ -1,3 +1,0 @@
-R5T.D0085.Construction - Construction project for ISerivcesConfigurer service..
-
-GOALS:
